@@ -15,7 +15,7 @@ Univesidad de Granada
 
 **Resumen** : _________
 
-**logotipo** :  ![logo][/sites/centros/fcd/public/template-extra/logo-facultad-comunicacion-documentacion.png"]
+**logotipo** :  
 
 **Slogan** (frase motivadora/inspiradora): ________
 
