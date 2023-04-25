@@ -39,6 +39,7 @@ Univesidad de Granada
 ### Metodología
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+
 Los contenidos audiovisuales que hemos utilizado para este proyecto tienen 2 orígenes: por un lado contenidos propios, elaborados por nosotros mismos, como el es caso de aquellas fotografías en las que aparece algún personaje, o, fotografías disponibles en internet, como por ejemplo la mayoría de los escenarios o los iconos utilizados. 
 Para el desarrollo de la historia, primero recogimos todas las anécdotas que han ido sucediendo con nuestros compañeros a lo largo de este año de máster, y luego, inventamos una historia ficticia en el que fueran pasando acontecimientos similares a los reales. Además, hicimos un esquema de la historia, ya que, a pesar de que solo hay 1 único final, en función de las decisiones tomadas a lo largo de la trama, se desbloquean personajes y diálogos diferentes.
 
@@ -57,14 +58,13 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? Por la recopilación y difusión de las historias que han sucedido este año en la clase del máster.
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) Sobre todo a las personas que pertenecen a la clase del máster, a los profesores e incluso a personas que esté interesadas en entrar a las futuras promociones del máster. 
+**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) Sobre todo a las personas que pertenecen a la clase del máster, a los profesores e incluso a personas que esté interesadas en entrar a las futuras promociones del máster. En general persona jóvenes que tengan unos 20-25 años y universitarios. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
 (ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+* Documental de ficción en el que se entrelaza la realidad con la ficción. 
+* En Protopie se hace una especie de teaser que introduce un día en un estudiante del máster, y en Arcwave la historia está más desarrollada y con más personajes. 
 
 
 
