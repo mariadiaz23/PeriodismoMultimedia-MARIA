@@ -1,6 +1,4 @@
-## (Nombre del proyecto)  
-
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
+## El Máster Este
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
@@ -11,7 +9,7 @@ Univesidad de Granada
 
 **Titulo** : _ El máster este ___
 
-**Autor(es)** ______________
+**Autor(es)** __ Asier Antón, María Díaz García y Aleksandra Puskina ____________
 
 **Resumen** : _________
 
