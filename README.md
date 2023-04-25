@@ -94,10 +94,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto: Consideramos que hemos captado la esencia que teníamos pensado en un principio, además, con los proyectos de Arcwave y Protopie se puede ver qué es lo que queríamos transmitir. 
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) El principal problema que hemos tenido ha sido el tiempo, ya que nos hubiera gustado desarrollar más la historia y los personajes, así como haber desarrollado más los recursos audioviales utilizados o usar alguna herramienta más compleja que hubiera sido más visual o interactiva de las que hemos usado. 
+* Propuestas de mejora (por qué consideras que merece la pena continuar): En un principio, nuestra idea era que las figuras de los personajes aparecieran sobre el escenario, y que fueran cambiando las expresiones faciales y posturas corporales. Además, se pueden añadir muchas más historias y personajes que estén relacionados a la trama. Por otro lado, puede que otra plataforma más compleja, nos hubiera brindado más interactividad con el usuario, si embargo, tanto Arcwave como Protopie nos han servido para desarrollar la idea de una forma más sencilla e intuitiva. 
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): 
 
 
 Referencias y recursos: 
