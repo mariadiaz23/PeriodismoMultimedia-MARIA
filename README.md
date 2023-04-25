@@ -7,23 +7,21 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _ El máster este ___
-
-**Autor(es)** __ Asier Antón, María Díaz García y Aleksandra Puskina ____________
-
-**Resumen** : _________
+**Titulo** : El máster este
+**Autor(es)** Asier Antón, María Díaz García y Aleksandra Puskina 
+**Resumen** : Un alumn@ nuevo llega al máster de NM. En su primer día, conocerá la facultad, y a sus nuevos compañeros y profesores. Se incorpora tarde, por unos problemas burocráticos, y tiene la suerte de que sus compañeros se llevan muy bien… tanto que ya tienen anécdotas, opiniones e historias sobre el máster, por lo que en el primer contacto, se irá enterando de todo lo que ha pasado en su ausencia.  
 
 **logotipo** :  
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): 
 
 **Hashtag**  ___
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2023
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): Protopie y ArcWave
 
 
 *  :octocat: (github url) 
