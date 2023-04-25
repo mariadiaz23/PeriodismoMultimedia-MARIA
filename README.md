@@ -8,25 +8,28 @@ Univesidad de Granada
 ----
 
 **Titulo** : El máster este
+
 **Autor(es)** Asier Antón, María Díaz García y Aleksandra Puskina 
+
 **Resumen** : Un alumn@ nuevo llega al máster de NM. En su primer día, conocerá la facultad, y a sus nuevos compañeros y profesores. Se incorpora tarde, por unos problemas burocráticos, y tiene la suerte de que sus compañeros se llevan muy bien… tanto que ya tienen anécdotas, opiniones e historias sobre el máster, por lo que en el primer contacto, se irá enterando de todo lo que ha pasado en su ausencia.  
 
-**logotipo** :  
+**logotipo** :  ![WhatsApp Image 2023-04-25 at 10 19 42 AM](https://user-images.githubusercontent.com/130590604/234217620-35ac3846-d546-4e76-9465-cb22e78141d1.jpeg)
+
 
 **Slogan** (frase motivadora/inspiradora): 
 
-**Hashtag**  ___
+**Hashtag**  #ElMásterEste #NuevosMediosInteractivosYPeriodismoMultimedia #UGR #FacultadComunicaciónYDocumentación
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
 **Fecha** : 2023
 
-**Medios** (donde se tiene presencia): Protopie y ArcWave
+**Medios** (donde se tiene presencia): 
 
 
 *  :octocat: (github url) 
-* Twitter 
-* ... 
+* Arcwave: https://arcweave.com/app/project/Pd6arnW02m/play
+* Protopie: https://cloud.protopie.io/p/4f399e5b2654c02cf6251215
 
 
 
